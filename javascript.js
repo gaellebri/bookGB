@@ -1,3 +1,4 @@
+console.log("script chargé")
 const mots_par_categorie = {
     "objets": ["table", "chaise", "ordinateur", "telephone", "livre", "stylo", "lampe", "horloge", "miroir"],
     "sentiments": ["joie", "tristesse", "colere", "peur", "amour", "haine", "jalousie", "envie", "fierte"],
